@@ -41,6 +41,8 @@ public class Program {
 		
 		System.out.println();
 		System.out.print("Updated data: " + product);
+		
+		System.out.println("Bom dia"); 
 			
 		sc.close();
 	}
